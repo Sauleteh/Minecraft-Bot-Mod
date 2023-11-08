@@ -1,0 +1,16 @@
+[
+{
+  "modid": "minebot",
+  "name": "Mine Bot",
+  "description": "A Minecraft bot",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ElMineToFlama"],
+  "credits": "The Forge and FML guys, for making the example code",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
